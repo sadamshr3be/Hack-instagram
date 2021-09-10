@@ -35,7 +35,9 @@
    
    chmod +x install.sh
    
-   chmod +x skar.sh
+   chmod +x alsharabi.sh
+
+su
    
    sudo bash install.sh
    
