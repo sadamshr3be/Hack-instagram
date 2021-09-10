@@ -1,7 +1,7 @@
  
 #!/bin/bash
 # Coded by: thelinuxchoice (Don't change, noob!)
-# https://t.me/Skar441
+# https://termuxalsharabi
 # www.instagram.com/x__xoxx
 
 trap 'store; exit 1;' 2
@@ -33,7 +33,7 @@ banner() {
 
 printf "\e[1;95m  ____  _  __    _    ____    \e[0m\e[1;91m    _   _    _    ____ _  __ \e[0m\n"
 printf "\e[1;95m / ___|| |/ /   / \  |  _ \   \e[0m\e[1;91m\  | | | |  / \  / ___| |/ / \e[0m\n"
-printf "\e[1;95m \___ \| ' /   ALSHARABI /   _ \ | |_) |   \e[0m\e[1;91m/ | |_| | / _ \| |   | ' / \e[0m\n"
+printf "\e[1;95m \___ \| ' /   / _ \ | |_) |   \e[0m\e[1;91m/ | |_| | / _ \| |   | ' / \e[0m\n"
 printf "\e[1;95m  ___) | . \  / ___ \|  _ <  \e[0m\e[1;91m/   |  _  |/ ___ \ |___| . \ \e[0m\n"
 printf "\e[1;77m |____/|_|\_\/_/   \_\_| \_\  \e[0m\e[1;77m\  |_| |_/_/   \_\____|_|\_\ \e[0m\n"
 printf "\n"
