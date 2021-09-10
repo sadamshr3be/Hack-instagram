@@ -23,7 +23,7 @@
    
    git clone https://github.com/sadamshr3be/Hack-instagram
    
- 
+ cd Hack-instagram
  
   sudo apt-get install tor
    
